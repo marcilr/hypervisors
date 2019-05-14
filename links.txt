@@ -1,0 +1,16 @@
+links.txt
+Created Tue May 14 08:40:44 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Hypervisor related links
+
+
+Links
+=====
+Compare the top 5 bare-metal hypervisors
+Hypervisors such as VMware vSphere, Microsoft Hyper-V,
+Citrix Hypervisor, RHV and Oracle VM Server for x86
+provide value to enterprise-level data centers in different ways.
+https://searchservervirtualization.techtarget.com/tip/Compare-the-top-5-bare-metal-hypervisors
+
