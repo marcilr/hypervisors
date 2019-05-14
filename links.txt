@@ -14,3 +14,11 @@ Citrix Hypervisor, RHV and Oracle VM Server for x86
 provide value to enterprise-level data centers in different ways.
 https://searchservervirtualization.techtarget.com/tip/Compare-the-top-5-bare-metal-hypervisors
 
+Package: spice-vdagent (0.15.0-1.2)
+Spice agent for Linux
+spice-vdagent is the spice agent for Linux, it is used
+in conjunction with spice-compitable hypervisor, its
+feature includs: \* Client mouse mode (no need to grab
+mouse by client, no mouse lag)
+Installed on a number of SOA DNR redhat vms.
+https://packages.debian.org/jessie/spice-vdagent
